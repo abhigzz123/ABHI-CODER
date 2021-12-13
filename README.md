@@ -1,1 +1,1 @@
-Basic Repository for learning and practicing web development
+Basic Repository for learning and practicing Javascript
